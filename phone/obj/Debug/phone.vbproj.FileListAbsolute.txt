@@ -1,0 +1,17 @@
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\phone.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\phone.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\bin\Debug\phone.exe
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\bin\Debug\phone.pdb
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\bin\Debug\phone.xml
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\phone.exe
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\phone.xml
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\phone.pdb
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\bin\Debug\Interop.MSCommLib.dll
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\bin\Debug\AxInterop.MSCommLib.dll
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\Interop.MSCommLib.dll
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\AxInterop.MSCommLib.dll
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\bin\Debug\phone.exe.config
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\phone\phone\obj\Debug\WindowsApplication1.Dialog1.resources
